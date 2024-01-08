@@ -1,0 +1,409 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+/* 65% off to happy new year image */
+.off {
+    margin-top: 120px;
+}
+
+.off-h {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.our-h {
+    margin-top: 48px;
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.all-h {
+    margin-top: 5px;
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.img-new-year {
+    /* align-items: center; */
+    /* align-content: center; */
+    /* justify-content: center; */
+    /* padding-left: 400px; */
+    margin-top: 50px;
+    text-align: center;
+    /* width: 1600px; */
+    /* margin-left: 400px; */
+    margin-bottom: 0px;
+}
+
+/* from welcome to midnight */
+.welcome-sec {
+    margin-top: 120px;
+}
+
+.welcome-container {
+    margin: auto;
+    display: flex;
+    gap: 40px;
+    margin-bottom: 0px;
+}
+
+.welcome-container {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    max-width: 1320px;
+}
+
+.welcome-h {
+    color: #FFF;
+    padding-top: 126px;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    margin-left: 126px;
+
+}
+
+.wlcome-p {
+    color: rgba(255, 255, 255, 0.80);
+    margin-top: 24px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 126px;
+}
+
+.join-now {
+    color: #FFF;
+    /* text-align: center; */
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+.welcome-png {
+    margin-top: 70px;
+    margin-right: 144px;
+}
+
+/*place new park hotel*/
+.place {
+    margin-top: 120px;
+    /* height: 482px; */
+    background-color: antiquewhite;
+
+}
+
+.place-div {
+    text-align: center;
+    margin: auto;
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    /* margin: 100px 385px 0px 385px; */
+    padding-top: 100px;
+
+    /* fill:  rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%; */
+}
+
+.place-span {
+    color: #F00;
+}
+
+.join-button {
+    color: #FFF;
+    background-color: #F00;
+    padding: 16px 32px;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10px; */
+    margin: 32px 575px 110px 575px;
+    
+    border-radius: 30px;
+
+}
+
+/* new best offer */
+.offer-sec {
+    margin-top: 120px;
+    background-image: url('../resources/Ellipse\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.offer-main-div {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    gap: 651px;
+}
+
+.offer-div {
+    text-align: left;
+}
+
+.offer-h {
+    margin: 120px auto 0px 0px;
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.comming-h {
+    margin: 5px auto 0px 0px;
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    text-transform: capitalize;
+
+}
+
+.dolor-p {
+    margin: 22px auto 0px 0px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 393px;
+}
+
+.date-div {
+    margin-top: 130px;
+    /* margin-left: 1044px; */
+    max-width: 276px;
+}
+
+.date-h {
+    color: #F00;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0px;
+    /* font-family: Inter; */
+}
+
+.date-p {
+    margin-top: 5px;
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 0px;
+}
+
+.date-img {
+    margin-top: 43px;
+}
+
+/* holiday section */
+.holiday-sec {
+    margin-top: 120px;
+}
+
+.holiday-main-div {
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.holiday-div {
+    text-align: center;
+}
+
+.holiday-h {
+    margin-top: 0px;
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.holiday-sale {
+    margin-top: 5px;
+    color: #F00;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+
+.holiday-p {
+    margin: 28px 144px 0px 144px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.holiday-img {
+    justify-content: space-around;
+    margin-top: 70px;
+    display: flex;
+    padding-right: 200px;
+    background-image: url('../resources/Rectangle\ 2.png'), url('../resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: bottom, top right;
+}
+
+.holi-img-girl {
+    margin-right: 0px;
+}
+
+/* portfolio section */
+.portfolio-sec {
+    margin-top: 120px;
+    justify-content: center;
+}
+
+.portfolio-main-div {
+    text-align: center;
+}
+.port-img{
+    margin-right: 24px;
+}
+
+.contant-div {
+    /* border: 1px solid black;
+    justify-content: center; */
+    text-align: left;
+}
+
+.first-h {
+    color: #F00;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.second-h {
+    margin-top: 16px;
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+}
+
+.portfolio-p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 22px;
+    margin-bottom: 0px;
+    max-width: 890px;
+}
+
+.first-imges-div {
+    margin-top: 48px;
+    margin-bottom: 0px;
+}
+
+.second-imges-div {
+    margin-top: 22px;
+}
+
+/* subscribe section */
+.subscribe-sec {
+    margin-top: 120px;
+    justify-content: center;
+
+}
+
+.subscribe-main-div {
+    text-align: center;
+}
+
+.sub-div {
+    margin: auto;
+    max-width: 850px;
+}
+
+.sub-img {
+    margin-bottom: 0px;
+}
+
+.sub-h {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.sub-p {
+    /* text-align: center; */
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* max-width: 896px; */
+    margin-top: 22px;
+    margin-bottom: 0px;
+}
+
+.sub-field-div {
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    position: relative;
+    /* height: 36px; */
+    width: 648px;
+    max-width: 100%;
+    /* max-height: 100%; */
+    height: 72px;
+}
+
+.input-mail {
+    border-radius: 50px;
+    background: #e6dada;
+    width: 90%;
+    height: 72px;
+    padding-left: 30px;
+    border: none;
+    /* position: relative; */
+}
+
+.subscribe-btn {
+    /* text-align: center; */
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFF;
+    background-color: #F00;
+    padding: 20px 55px;
+    border-radius: 50px;
+    position: absolute;
+    height: 100%;
+    right: 0;
+    top: 0;
+}
